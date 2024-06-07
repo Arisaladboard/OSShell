@@ -1,3 +1,13 @@
+
+/*
+ * Author: Ari Salehpour
+ * Course: CPE/CSC 3350
+ * Assignment: Wash Assignment
+ * Professor: Cameron
+ * Date: 6/3/24
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
